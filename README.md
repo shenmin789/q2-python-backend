@@ -40,7 +40,7 @@ run command below to setup database
 python setup_database.py
 ```
 
-## Step 5 - Serve the project
+## Step 6 - Serve the project
 ```bash
 python /api/api.py
 ```
